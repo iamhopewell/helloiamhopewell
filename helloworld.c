@@ -7,6 +7,5 @@ void main()
 	// ///kkkkkkkkkkkkkkk
 	i work for it
 		iikkk
-		i///// 1120 20:50
 
 }
