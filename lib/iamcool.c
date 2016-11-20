@@ -1,2 +1,0 @@
-sss
-uan ciikd,,,,
