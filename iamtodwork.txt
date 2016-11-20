@@ -1,0 +1,6 @@
+//main for iamtodowork
+//
+void main()
+{
+	// hello world...~~~
+}
